@@ -2,7 +2,7 @@
 <img align="left" src="https://i.imgur.com/jwwzAxj.png" width="100px">
 <br/><br/><br/><br/>
 
-[README in English](README.en.md) • [README на русском](README.ru.md)
+[README in English](README.en.md) • [README на русском](README.md)
 
 # Общие сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium/issues/new)
