@@ -2,7 +2,7 @@
 <img align="left" src="https://i.imgur.com/jwwzAxj.png" width="100px">
 <br/><br/><br/><br/>
 
-[README in English](README.en.md) • [README на русском](README.ru.md)
+[README на русском](README.md)
 
 <h2>How can I register my domain name in Medium DNS?</h2>
 
