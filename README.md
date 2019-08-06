@@ -4,6 +4,9 @@
 
 [README in English](README.en.md)
 
+# Адрес DNS-сервера
+`200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be`
+
 # Общие сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium/issues/new)
 
