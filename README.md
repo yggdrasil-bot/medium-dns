@@ -4,7 +4,7 @@
 
 [README in English](README.en.md)
 
-# Адрес DNS-сервера
+# IPv6 адрес DNS-сервера
 `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be`
 
 # Общие сервисы
