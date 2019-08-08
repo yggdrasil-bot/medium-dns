@@ -10,3 +10,5 @@ AAAA  test.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  demo.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  medium.isp
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
