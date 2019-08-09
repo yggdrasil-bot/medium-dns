@@ -8,3 +8,5 @@ AAAA  wrong.ygg
       200:34f8:3a1b:5a5f:c188:f950:bf97:d1a0
 AAAA  medium.isp
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  nic.ygg
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
