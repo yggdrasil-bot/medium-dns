@@ -20,3 +20,5 @@ AAAA  peertube.ygg
       301:fd1:86e3:521c::13
 AAAA  privatebin.ygg
       200:bc6a:29cb:c24:d59e:4b1e:bdc3:d2ac
+AAAA  wekan.ygg
+      201:424a:3537:d340:6665:daaa:4918:2181
