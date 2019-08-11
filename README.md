@@ -49,4 +49,4 @@
 | Wiki | Yggdrasil Wiki           | [wiki.ygg](http://wiki.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
 | PeerTube | Видеохостинг           | [peertube.ygg](http://peertube.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
 | PrivateBin | -           | [privatebin.ygg](http://privatebin.ygg/)                   	| -              	| ![](https://img.shields.io/badge/недоступен-red.svg)            	| - | - |
-| IRC (Mesh) | Порт: 16667 (без SSL)           | [irc.mesh.ygg](irc://irc.mesh.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| IRC (Mesh) | Порт: 16667 (без SSL)           | irc.mesh.ygg                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
