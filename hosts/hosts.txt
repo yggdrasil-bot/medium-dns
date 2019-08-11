@@ -22,3 +22,5 @@ AAAA  privatebin.ygg
       200:bc6a:29cb:c24:d59e:4b1e:bdc3:d2ac
 AAAA  wekan.ygg
       201:424a:3537:d340:6665:daaa:4918:2181
+AAAA  irc.mesh.ygg
+      303:60d4:3d32:a2b9::3
