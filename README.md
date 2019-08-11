@@ -42,4 +42,10 @@
 
 | Название     	| Описание                    	| URL                       	  | IPv6 	        | Доступность 	| SSL | CA |
 |-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:---:|:--:|
-| Мой сайт 	| Веб 1.0            | [podivilov.ygg](https://podivilov.ygg/)                   	| -              	| ![](https://img.shields.io/badge/частично-yellow.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
+| Михаил Подивилов | Веб 1.0            | [podivilov.ygg](https://podivilov.ygg/)                   	| -              	| ![](https://img.shields.io/badge/частично-yellow.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
+| Карта сети | Карта сети Yggdrasil            | [map.ygg](http://map.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| Mesh | Форум, посвящённый Mesh-сетям           | [mesh.ygg](http://mesh.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| IpInfo | Ваш IPv6-адрес           | [ipinfo.ygg](http://ipinfo.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| Wiki | Yggdrasil Wiki           | [wiki.ygg](http://wiki.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| PeerTube | Видеохостинг           | [peertube.ygg](http://peertube.ygg/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| - | - |
+| PrivateBin | -           | [privatebin.ygg](http://privatebin.ygg/)                   	| -              	| ![](https://img.shields.io/badge/недоступен-red.svg)            	| - | - |
