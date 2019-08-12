@@ -8,5 +8,9 @@ AAAA  medium.isp
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  nic.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  static-map.ygg
+      301:4541:2f84:1188:216:3eff:feb6:65a3
+AAAA  wekan.ygg
+      201:424a:3537:d340:6665:daaa:4918:2181
 AAAA  irc.mesh.ygg
       303:60d4:3d32:a2b9::3
