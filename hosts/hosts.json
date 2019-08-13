@@ -4,79 +4,79 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": false,
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "map.ygg",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "mesh.ygg",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "wrong.ygg",
       "wildcard": true,
-      "available": false,
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "medium.isp",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "nic.ygg",
       "wildcard": true,
-      "available": true,
-    },
+      "available": true
+    }
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "ipinfo.ygg",
       "wildcard": true,
-      "available": false,
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "static-map.ygg",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "wiki.ygg",
       "wildcard": true,
-      "available": false,
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "peertube.ygg",
       "wildcard": true,
-      "available": false,
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "wekan.ygg",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "irc.mesh.ygg",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "mail.medium.isp",
       "wildcard": true,
-      "available": true,
+      "available": true
     },
   ]
 }
