@@ -42,14 +42,14 @@
 
 | URL                       	| IPv6 	        | Доступность 	| SSL | CA |
 |------------------------------ |---------------|:-------------:|:---:|:--:|
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [podivilov.ygg](https://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [wrong.ygg](http://wrong.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a0` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/ca-certificates/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
 | [nic.ygg](http://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
-| [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [peertube.ygg](http://peertube.ygg/) | `301:fd1:86e3:521c::13` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [wekan.ygg](http://wekan.ygg/) | `201:424a:3537:d340:6665:daaa:4918:2181` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
