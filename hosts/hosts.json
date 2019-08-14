@@ -20,12 +20,6 @@
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
-      "domain": "wrong.ygg",
-      "wildcard": true,
-      "available": false
-    },
-    {
-      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "medium.isp",
       "wildcard": true,
       "available": true
