@@ -18,3 +18,5 @@ AAAA  mail.medium.isp
       200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
 AAAA  cdnjs.ygg
       300:3e2c:4216:37c6::9
+AAAA  search.medium.isp
+      201:86d0:415c:e865:ce43:c235:d324:2e74
