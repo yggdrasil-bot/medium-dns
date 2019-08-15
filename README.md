@@ -43,7 +43,7 @@
 
 | URL                       	| IPv6 	        | Доступность 	| SSL | Security |
 |------------------------------ |---------------|:-------------:|:---:|:--------:|
-| [podivilov.ygg](https://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [podivilov.ygg](https://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Secure-success.svg"></a> |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [mesh.ygg](https://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
 | [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Secure-success.svg"></a> |
