@@ -4,7 +4,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": true
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
@@ -46,7 +46,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "wiki.ygg",
       "wildcard": true,
-      "available": true
+      "available": false
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
@@ -88,7 +88,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "speedtest.ygg",
       "wildcard": true,
-      "available": false
+      "available": true
     },
     {
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
