@@ -43,3 +43,27 @@
 
 | URL                       	| IPv6 	        | Доступность 	| SSL | Security |
 |------------------------------ |---------------|:-------------:|:---:|:--------:|
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [mesh.ygg](https://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [mesh.ygg](https://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [y.gg](https://y.gg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Secure-success.svg"></a> |
+| [services.ygg](https://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [nic.ygg](https://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [y.gg](https://y.gg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Secure-success.svg"></a> |
+| [services.ygg](https://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [nic.ygg](https://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-Unknown-inactive.svg"> |
+| [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [mirror2.services.ygg](http://mirror2.services.ygg/) | `301:fd1:86e3:521c::22` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
