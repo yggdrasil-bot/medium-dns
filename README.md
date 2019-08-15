@@ -43,7 +43,7 @@
 
 | URL                       	| IPv6 	        | Доступность 	| SSL | CA |
 |------------------------------ |---------------|:-------------:|:---:|:--:|
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-Medium_Root_CA-success.svg"></a> |
 | [nic.ygg](http://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
