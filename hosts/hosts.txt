@@ -30,3 +30,9 @@ AAAA  speedtest.ygg
       201:424c:a9d8:5d69:f3b0:61ef:f201:d37
 AAAA  y.gg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  services.ygg
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  mirror1.services.ygg
+      301:fd1:86e3:521c::10
+AAAA  mirror2.services.ygg
+      301:fd1:86e3:521c::22
