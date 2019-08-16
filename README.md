@@ -50,7 +50,7 @@
 | [nic.ygg](https://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
-| [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
+| [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [peertube.ygg](http://peertube.ygg/) | `301:fd1:86e3:521c::13` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [wekan.ygg](http://wekan.ygg/) | `201:424a:3537:d340:6665:daaa:4918:2181` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
@@ -62,4 +62,4 @@
 | [services.ygg](https://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [mirror2.services.ygg](http://mirror2.services.ygg/) | `301:fd1:86e3:521c::22` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
-| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
