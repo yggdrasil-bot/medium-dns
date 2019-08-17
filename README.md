@@ -53,7 +53,7 @@
 | [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [peertube.ygg](http://peertube.ygg/) | `301:fd1:86e3:521c::13` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [wekan.ygg](http://wekan.ygg/) | `201:424a:3537:d340:6665:daaa:4918:2181` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
-| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
+| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [mail.medium.isp](https://mail.medium.isp/) | `200:3e2c:4216:37c6:aeb3:b54d:c483:90a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [cdnjs.ygg](http://cdnjs.ygg/) | `300:3e2c:4216:37c6::9` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [search.medium.isp](https://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
@@ -62,4 +62,4 @@
 | [services.ygg](https://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [mirror2.services.ygg](http://mirror2.services.ygg/) | `301:fd1:86e3:521c::22` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
-| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
