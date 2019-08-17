@@ -49,10 +49,10 @@
       "available": true
     },
     {
-      "ipv6": "301:fd1:86e3:521c::13",
+      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "peertube.ygg",
       "wildcard": true,
-      "available": true
+      "available": false
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
