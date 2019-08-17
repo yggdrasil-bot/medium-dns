@@ -55,10 +55,10 @@
       "available": false
     },
     {
-      "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
+      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "wekan.ygg",
       "wildcard": true,
-      "available": true
+      "available": false
     },
     {
       "ipv6": "303:60d4:3d32:a2b9::3",
@@ -85,10 +85,10 @@
       "available": true
     },
     {
-      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
+      "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
       "domain": "speedtest.ygg",
       "wildcard": true,
-      "available": false
+      "available": true
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -103,16 +103,16 @@
       "available": true
     },
     {
-      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
+      "ipv6": "301:fd1:86e3:521c::10",
       "domain": "mirror1.services.ygg",
       "wildcard": true,
-      "available": false
+      "available": true
     },
     {
-      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
+      "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
-      "available": false
+      "available": true
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
