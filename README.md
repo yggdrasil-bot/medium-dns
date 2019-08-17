@@ -45,7 +45,7 @@
 |------------------------------ |---------------|:-------------:|:---:|:------------:|
 | [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
-| [mesh.ygg](https://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| [mesh.ygg](https://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [medium.isp](https://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
 | [nic.ygg](https://nic.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
@@ -56,10 +56,10 @@
 | [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
 | [mail.medium.isp](https://mail.medium.isp/) | `200:3e2c:4216:37c6:aeb3:b54d:c483:90a3` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [cdnjs.ygg](http://cdnjs.ygg/) | `300:3e2c:4216:37c6::9` | ![](https://img.shields.io/badge/доступен-success.svg) | ❌ | - |
-| [search.medium.isp](https://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| [search.medium.isp](https://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [y.gg](https://y.gg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
 | [services.ygg](https://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
 | [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
 | [mirror2.services.ygg](http://mirror2.services.ygg/) | `301:fd1:86e3:521c::22` | ![](https://img.shields.io/badge/недоступен-red.svg) | - | - |
-| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Global_Root_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| [netwhood.ygg](https://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/доступен-success.svg) | ✅ | <img src="https://img.shields.io/badge/%F0%9F%94%93-неизвестно-inactive.svg"> |
