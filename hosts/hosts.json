@@ -143,6 +143,12 @@
       "domain": "irc.ygg",
       "wildcard": true,
       "available": true
+    },
+    {
+      "ipv6": "200:3e2c:4216:37c6:aeb3:b54d:c483:90a3",
+      "domain": "mail.ygg",
+      "wildcard": true,
+      "available": true
     }
   ]
 }
