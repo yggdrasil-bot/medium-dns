@@ -10,38 +10,38 @@
 # Общие сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
 
-| Название     	| Описание                    	| URL                         	| IPv6  	      | Доступность 	| SSL | Безопасность |
-|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:---:|:--:|
-| «Medium» 	| Заглавная страница            | [medium.isp](https://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Старт 	| Стартовая страница            | [start.medium.isp](https://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Чат   		| Чат             	| [web.medium.isp](https://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Почта   	| Почтовый сервис             	| [mail.medium.isp](https://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Quora_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
+| «Medium» 	| Заглавная страница            | [medium.isp](https://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Старт 	| Стартовая страница            | [start.medium.isp](https://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Чат   		| Чат             	| [web.medium.isp](https://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Почта   	| Почтовый сервис             	| [mail.medium.isp](https://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
 | Блог   	| Блоговая платформа            | - | - | ![](https://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
 | Новости   	| Новостной портал             	| - | - | ![](https://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
-| Поиск   	| Поисковой движок             	| [search.medium.isp](https://search.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| Поиск   	| Поисковой движок             	| [search.medium.isp](https://search.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
 | Хостинг   	| Хостинговый сервис	        | - | - | ![](https://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
-| Диск   	| Файлообменник                	| [disk.medium.isp](https://disk.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Изображения   | Хостинг изображений           | [pics.medium.isp](https://pics.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Помощь   	| Справочный сервис             | [help.medium.isp](https://help.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Ссылки   	| Сервис коротких ссылок        | [link.medium.isp](https://link.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| Диск   	| Файлообменник                	| [disk.medium.isp](https://disk.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Изображения   | Хостинг изображений           | [pics.medium.isp](https://pics.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Помощь   	| Справочный сервис             | [help.medium.isp](https://help.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Ссылки   	| Сервис коротких ссылок        | [link.medium.isp](https://link.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
 
 # Специальные сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
 
-| Название     	| Описание                    	| URL                         	| IPv6  	      | Доступность 	| SSL | Безопасность |
-|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:---:|:--:|
-| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| Статистика 	| Специальный сервис        	| [Ссылка](https://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
+| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Статистика 	| Специальный сервис        	| [Ссылка](https://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
 | OCSP 	| Специальный сервис        	| [Ссылка](http://ocsp.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ❌ | - |
-| DNS 	| Специальный сервис        	| [Ссылка](https://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
-| PKI 	| Специальный сервис        	| [Ссылка](https://pki.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| DNS 	| Специальный сервис        	| [Ссылка](https://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| PKI 	| Специальный сервис        	| [Ссылка](https://pki.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
 | CRL 	| Специальный сервис        	| [Ссылка](http://crl.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ❌ | - |
-| CA 	| Центр сертификации            | [Ссылка](https://secure.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ✅ | <a href="https://github.com/medium-isp/certification-authority/blob/master/certs/Medium_Domain_Validation_Secure_Server_CA.crt"><img src="https://img.shields.io/badge/%F0%9F%94%92-защищён-success.svg"></a> |
+| CA 	| Центр сертификации            | [Ссылка](https://secure.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
 
 # Пользовательские сервисы
 Информация о доступности пользовательских сервисов обновляется в автоматическом режиме.
 
-| URL                       	| IPv6 	        | Доступность 	| SSL | Безопасность |
+| URL                       	| IPv6 	        | Доступность 	|
 |------------------------------ |---------------|:-------------:|:---:|:------------:|
 | [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) |
