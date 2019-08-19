@@ -11,6 +11,38 @@
 |------|:----:|:-------:|:-----------:|:-----------:|
 | `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ❌ | ✅ | ![](https://img.shields.io/badge/доступен-success.svg) |
 | `304:2714:6593:a03d:216:3eff:fec4:d8b0` | 53 | ✅ | ✅ | ![](https://img.shields.io/badge/доступен-success.svg) |
+# Общие сервисы
+[Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
+
+| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
+| «Medium» 	| Заглавная страница            | [medium.isp](http://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Старт 	| Стартовая страница            | [start.medium.isp](http://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Чат   		| Чат             	| [web.medium.isp](http://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Почта   	| Почтовый сервис             	| [mail.medium.isp](http://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Блог   	| Блоговая платформа            | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
+| Новости   	| Новостной портал             	| - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
+| Поиск   	| Поисковой движок             	| [search.medium.isp](http://search.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Хостинг   	| Хостинговый сервис	        | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
+| Диск   	| Файлообменник                	| [disk.medium.isp](http://disk.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Изображения   | Хостинг изображений           | [pics.medium.isp](http://pics.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Помощь   	| Справочный сервис             | [help.medium.isp](http://help.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Ссылки   	| Сервис коротких ссылок        | [link.medium.isp](http://link.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+
+# Специальные сервисы
+[Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
+
+| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
+| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Статистика 	| Специальный сервис        	| [Ссылка](http://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| DNS 	| Специальный сервис        	| [Ссылка](http://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+
+# Пользовательские сервисы
+Информация о доступности пользовательских сервисов обновляется в автоматическом режиме.
+
+| URL                       	| IPv6 	        | Доступность 	|
+|------------------------------ |---------------|:-------------:|
 | [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-success.svg) |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-success.svg) |
