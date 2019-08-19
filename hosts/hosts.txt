@@ -42,3 +42,7 @@ AAAA  matrix.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  riot.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  irc.medium.isp
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  irc.ygg
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
