@@ -5,7 +5,7 @@
       "domain": "podivilov.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.39
+      "uptime": 0.41
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
@@ -47,21 +47,21 @@
       "domain": "static-map.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.30
+      "uptime": 0.36
     },
     {
       "ipv6": "203:e0b0:ec08:4e1f:f004:19a9:577a:90ba",
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.30
+      "uptime": 0.36
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
       "domain": "peertube.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 0.30
+      "available": false,
+      "uptime": 0.27
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.33
+      "uptime": 0.40
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -124,21 +124,21 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.44
+      "uptime": 0.50
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.44
+      "uptime": 0.50
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
       "domain": "netwhood.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.90
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -193,8 +193,8 @@
       "ipv6": "304:4738:37c6:d295::5",
       "domain": "gitlab.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.90
     },
     {
       "ipv6": "304:4738:37c6:d295::3",
@@ -207,15 +207,15 @@
       "ipv6": "304:4738:37c6:d295::2",
       "domain": "nextcloud.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.90
     },
     {
       "ipv6": "304:4738:37c6:d295::6",
       "domain": "office.nextcloud.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.90
     }
   ]
 }
