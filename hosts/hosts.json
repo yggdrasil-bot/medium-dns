@@ -5,7 +5,7 @@
       "domain": "podivilov.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.64
+      "uptime": 0.65
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
@@ -40,28 +40,28 @@
       "domain": "ipinfo.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.93
+      "uptime": 0.91
     },
     {
       "ipv6": "301:4541:2f84:1188:216:3eff:feb6:65a3",
       "domain": "static-map.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.73
+      "uptime": 0.74
     },
     {
       "ipv6": "203:e0b0:ec08:4e1f:f004:19a9:577a:90ba",
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.73
+      "uptime": 0.74
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
       "domain": "peertube.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.69
+      "uptime": 0.70
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.75
+      "uptime": 0.76
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -124,14 +124,14 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.77
+      "uptime": 0.78
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.77
+      "uptime": 0.78
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
