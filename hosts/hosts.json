@@ -61,7 +61,7 @@
       "domain": "peertube.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.79
+      "uptime": 0.80
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.83
+      "uptime": 0.84
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -124,14 +124,14 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.85
+      "uptime": 0.86
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.85
+      "uptime": 0.86
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
