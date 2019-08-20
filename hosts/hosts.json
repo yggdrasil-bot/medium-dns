@@ -82,14 +82,14 @@
       "domain": "mail.medium.isp",
       "wildcard": true,
       "available": true,
-      "uptime": 0.98
+      "uptime": 0.99
     },
     {
       "ipv6": "300:3e2c:4216:37c6::9",
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.98
+      "uptime": 0.99
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.94
+      "uptime": 0.95
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
