@@ -10,7 +10,7 @@
 | IPv6 | Порт | Зеркало | Аутентичный | Доступность |
 |------|:----:|:-------:|:-----------:|:-----------:|
 | `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ❌ | ✅ | ![](https://img.shields.io/badge/доступен-success.svg) |
-| `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ❌ | ✅ | ![](https://img.shields.io/badge/недоступен-red.svg) |
+| `304:2714:6593:a03d:216:3eff:fec4:d8b0` | 53 | ❌ | ✅ | ![](https://img.shields.io/badge/недоступен-red.svg) |
 # Общие сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
 
