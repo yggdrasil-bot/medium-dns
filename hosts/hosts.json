@@ -74,8 +74,8 @@
       "ipv6": "303:60d4:3d32:a2b9::3",
       "domain": "irc.mesh.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "200:3e2c:4216:37c6:aeb3:b54d:c483:90a3",
