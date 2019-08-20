@@ -124,14 +124,14 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.90
+      "uptime": 0.91
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.90
+      "uptime": 0.91
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
