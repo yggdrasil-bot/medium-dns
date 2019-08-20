@@ -60,3 +60,5 @@ AAAA  nextcloud.ygg
       304:4738:37c6:d295::2
 AAAA  office.nextcloud.ygg
       304:4738:37c6:d295::6
+AAAA  git.netwhood.ygg
+      202:12a9:e5:4474:d473:82be:16ac:9381
