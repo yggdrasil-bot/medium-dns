@@ -48,3 +48,15 @@ AAAA  irc.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  mail.ygg
       200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
+AAAA  i2pd.ygg
+      304:4738:37c6:d295::1
+AAAA  mirror3.services.ygg
+      304:4738:37c6:d295::4
+AAAA  gitlab.ygg
+      304:4738:37c6:d295::5
+AAAA  privatebin.ygg
+      304:4738:37c6:d295::3
+AAAA  nextcloud.ygg
+      304:4738:37c6:d295::2
+AAAA  office.nextcloud.ygg
+      304:4738:37c6:d295::2
