@@ -102,7 +102,7 @@
       "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
       "domain": "speedtest.ygg",
       "wildcard": true,
-      "available": true,
+      "available": false,
       "uptime": 0.96
     },
     {
