@@ -68,3 +68,9 @@
 | [irc.medium.isp](http://irc.medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) |
 | [irc.ygg](http://irc.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-success.svg) |
 | [mail.ygg](http://mail.ygg/) | `200:3e2c:4216:37c6:aeb3:b54d:c483:90a3` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [i2pd.ygg](http://i2pd.ygg/) | `304:4738:37c6:d295::1` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [mirror3.services.ygg](http://mirror3.services.ygg/) | `304:4738:37c6:d295::4` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [gitlab.ygg](http://gitlab.ygg/) | `304:4738:37c6:d295::5` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [privatebin.ygg](http://privatebin.ygg/) | `304:4738:37c6:d295::3` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [nextcloud.ygg](http://nextcloud.ygg/) | `304:4738:37c6:d295::2` | ![](https://img.shields.io/badge/доступен-success.svg) |
+| [office.nextcloud.ygg](http://office.nextcloud.ygg/) | `304:4738:37c6:d295::2` | ![](https://img.shields.io/badge/доступен-success.svg) |

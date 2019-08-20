@@ -149,6 +149,42 @@
       "domain": "mail.ygg",
       "wildcard": true,
       "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::1",
+      "domain": "i2pd.ygg",
+      "wildcard": true,
+      "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::4",
+      "domain": "mirror3.services.ygg",
+      "wildcard": true,
+      "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::5",
+      "domain": "gitlab.ygg",
+      "wildcard": true,
+      "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::3",
+      "domain": "privatebin.ygg",
+      "wildcard": true,
+      "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::2",
+      "domain": "nextcloud.ygg",
+      "wildcard": true,
+      "available": true
+    },
+    {
+      "ipv6": "304:4738:37c6:d295::2",
+      "domain": "office.nextcloud.ygg",
+      "wildcard": true,
+      "available": true
     }
   ]
 }
