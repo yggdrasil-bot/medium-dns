@@ -14,29 +14,29 @@
 # Общие сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
 
-| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
-|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
-| «Medium» 	| Заглавная страница            | [medium.isp](http://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Старт 	| Стартовая страница            | [start.medium.isp](http://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Чат   		| Чат             	| [web.medium.isp](http://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Почта   	| Почтовый сервис             	| [mail.medium.isp](http://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Блог   	| Блоговая платформа            | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
-| Новости   	| Новостной портал             	| - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
-| Поиск   	| Поисковой движок             	| [search.medium.isp](http://search.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Хостинг   	| Хостинговый сервис	        | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - |
-| Диск   	| Файлообменник                	| [disk.medium.isp](http://disk.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Изображения   | Хостинг изображений           | [pics.medium.isp](http://pics.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Помощь   	| Справочный сервис             | [help.medium.isp](http://help.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Ссылки   	| Сервис коротких ссылок        | [link.medium.isp](http://link.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	| Uptime |
+|-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:-------:
+| «Medium» 	| Заглавная страница            | [medium.isp](http://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Старт 	| Стартовая страница            | [start.medium.isp](http://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Чат   		| Чат             	| [web.medium.isp](http://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Почта   	| Почтовый сервис             	| [mail.medium.isp](http://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Блог   	| Блоговая платформа            | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Новости   	| Новостной портал             	| - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Поиск   	| Поисковой движок             	| [search.medium.isp](http://search.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Хостинг   	| Хостинговый сервис	        | - | - | ![](http://img.shields.io/badge/нет_информации-inactive.svg)            	| - | - | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Диск   	| Файлообменник                	| [disk.medium.isp](http://disk.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Изображения   | Хостинг изображений           | [pics.medium.isp](http://pics.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Помощь   	| Справочный сервис             | [help.medium.isp](http://help.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Ссылки   	| Сервис коротких ссылок        | [link.medium.isp](http://link.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
 
 # Специальные сервисы
 [Сообщить о недоступности сервиса](https://github.com/medium-isp/medium-dns/issues/new)
 
 | Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
 |-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
-| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| Статистика 	| Специальный сервис        	| [Ссылка](http://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
-| DNS 	| Специальный сервис        	| [Ссылка](http://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	|
+| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Статистика 	| Специальный сервис        	| [Ссылка](http://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| DNS 	| Специальный сервис        	| [Ссылка](http://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
 
 # Пользовательские сервисы
 Информация о доступности пользовательских сервисов обновляется в автоматическом режиме.
