@@ -34,9 +34,9 @@
 
 | Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	|
 |-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|
-| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
-| Статистика 	| Специальный сервис        	| [Ссылка](http://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
-| DNS 	| Специальный сервис        	| [Ссылка](http://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Проверка соединения 	| Специальный сервис        	| [Ссылка](http://connectivitycheck.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| Статистика 	| Специальный сервис        	| [Ссылка](http://stats.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
+| DNS 	| Специальный сервис        	| [Ссылка](http://dns.medium.isp/) 	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.99%25-blue.svg) |
 
 # Пользовательские сервисы
 Информация о доступности пользовательских сервисов обновляется в автоматическом режиме.
