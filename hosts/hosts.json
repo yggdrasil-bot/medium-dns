@@ -85,10 +85,10 @@
       "available": true
     },
     {
-      "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
+      "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "speedtest.ygg",
       "wildcard": true,
-      "available": true
+      "available": false
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
