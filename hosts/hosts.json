@@ -47,14 +47,14 @@
       "domain": "static-map.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.82
+      "uptime": 0.83
     },
     {
       "ipv6": "203:e0b0:ec08:4e1f:f004:19a9:577a:90ba",
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.82
+      "uptime": 0.83
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.84
+      "uptime": 0.85
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
