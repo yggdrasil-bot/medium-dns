@@ -47,14 +47,14 @@
       "domain": "static-map.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.91
+      "uptime": 0.92
     },
     {
       "ipv6": "203:e0b0:ec08:4e1f:f004:19a9:577a:90ba",
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.91
+      "uptime": 0.92
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -124,14 +124,14 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.93
+      "uptime": 0.94
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.93
+      "uptime": 0.94
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
