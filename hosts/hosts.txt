@@ -70,3 +70,5 @@ AAAA  dhtmap.ygg
       203:6e:8642:b41d:8a9:424e:97c8:eb46
 AAAA  telegram-proxy.ygg
       200:d672:ace1:3304:de22:1cef:c964:ef
+AAAA  cdn.ygg
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712    
