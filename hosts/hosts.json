@@ -4,7 +4,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.45
     },
     {
@@ -60,7 +60,7 @@
       "ipv6": "301:fd1:86e3:521c::13",
       "domain": "peertube.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.86
     },
     {
@@ -123,14 +123,14 @@
       "ipv6": "301:fd1:86e3:521c::10",
       "domain": "mirror1.services.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.87
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.87
     },
     {
