@@ -61,7 +61,7 @@
       "domain": "peertube.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.90
+      "uptime": 0.89
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
@@ -124,7 +124,7 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.91
+      "uptime": 0.90
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
