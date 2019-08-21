@@ -60,7 +60,7 @@
       "ipv6": "301:fd1:86e3:521c::13",
       "domain": "peertube.ygg",
       "wildcard": true,
-      "available": true,
+      "available": false,
       "uptime": 0.87
     },
     {
