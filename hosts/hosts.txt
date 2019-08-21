@@ -64,3 +64,7 @@ AAAA  git.netwhood.ygg
       202:12a9:e5:4474:d473:82be:16ac:9381
 AAAA  provodach.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  yggservers.ygg
+      200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
+AAAA  dhtmap.ygg
+      203:6e:8642:b41d:8a9:424e:97c8:eb46
