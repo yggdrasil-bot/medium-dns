@@ -72,3 +72,5 @@ AAAA  telegram-proxy.ygg
       200:d672:ace1:3304:de22:1cef:c964:ef
 AAAA  cdn.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  humhub.ygg
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
