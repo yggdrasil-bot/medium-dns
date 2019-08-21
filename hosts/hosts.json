@@ -5,7 +5,7 @@
       "domain": "podivilov.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.45
+      "uptime": 0.46
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
@@ -241,6 +241,13 @@
     {
       "ipv6": "203:6e:8642:b41d:8a9:424e:97c8:eb46",
       "domain": "dhtmap.ygg",
+      "wildcard": true,
+      "available": true,
+      "uptime": 1.00
+    },
+    {
+      "ipv6": "200:d672:ace1:3304:de22:1cef:c964:ef",
+      "domain": "telegram-proxy.ygg",
       "wildcard": true,
       "available": true,
       "uptime": 1.00
