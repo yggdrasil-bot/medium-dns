@@ -58,7 +58,7 @@
 | [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mail.medium.isp](http://mail.medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [cdnjs.ygg](http://cdnjs.ygg/) | `300:3e2c:4216:37c6::9` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [search.medium.isp](http://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
+| [search.medium.isp](http://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [to.ygg](http://to.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [services.ygg](http://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
