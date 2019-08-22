@@ -265,6 +265,13 @@
       "wildcard": true,
       "available": true,
       "uptime": 0.90
+    },
+    {
+      "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
+      "domain": "krd.ygg",
+      "wildcard": true,
+      "available": true,
+      "uptime": 1.00
     }
   ]
 }
