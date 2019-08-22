@@ -264,7 +264,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.88
+      "uptime": 0.89
     }
   ]
 }
