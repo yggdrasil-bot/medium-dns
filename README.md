@@ -11,6 +11,7 @@
 |------|:----:|:---:|:-------------:|------------|
 | `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ![](https://img.shields.io/badge/основной-brightgreen.svg) | ![](https://img.shields.io/badge/аутентичный-brightgreen.svg) | - |
 | `202:12a9:e5:4474:d473:82be:16ac:9381`   | 53 | ![](https://img.shields.io/badge/зеркало-yellow.svg)       | ![](https://img.shields.io/badge/аутентичный-brightgreen.svg) | - |
+| `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | 53 | ![](https://img.shields.io/badge/зеркало-yellow.svg)       | ![](https://img.shields.io/badge/аутентичный-brightgreen.svg) | - |
 | `304:2714:6593:a03d:216:3eff:fec4:d8b0`  | 53 | ![](https://img.shields.io/badge/зеркало-yellow.svg)       | ![](https://img.shields.io/badge/аутентичный-brightgreen.svg) | Доступен в рабочее время |
 
 # Общие сервисы
@@ -45,7 +46,7 @@
 
 | URL                       	| IPv6 	        | Доступность 	| Uptime |
 |------------------------------ |---------------|:-------------:|:------:|
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-86.36%25-brightgreen.svg) |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-86.95%25-brightgreen.svg) |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [medium.isp](http://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
