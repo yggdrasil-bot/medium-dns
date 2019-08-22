@@ -78,7 +78,7 @@
       "uptime": 0.97
     },
     {
-      "ipv6": "200:3e2c:4216:37c6:aeb3:b54d:c483:90a3",
+      "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
       "domain": "mail.medium.isp",
       "wildcard": true,
       "available": true,
@@ -131,7 +131,7 @@
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.86
+      "uptime": 0.85
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
@@ -169,7 +169,7 @@
       "uptime": 1.00
     },
     {
-      "ipv6": "200:3e2c:4216:37c6:aeb3:b54d:c483:90a3",
+      "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
       "domain": "mail.ygg",
       "wildcard": true,
       "available": true,
@@ -248,13 +248,6 @@
     {
       "ipv6": "200:d672:ace1:3304:de22:1cef:c964:ef",
       "domain": "telegram-proxy.ygg",
-      "wildcard": true,
-      "available": true,
-      "uptime": 1.00
-    },
-    {
-      "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
-      "domain": "cdn.ygg",
       "wildcard": true,
       "available": true,
       "uptime": 1.00

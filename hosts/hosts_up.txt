@@ -19,7 +19,7 @@ AAAA  wekan.ygg
 AAAA  irc.mesh.ygg
       303:60d4:3d32:a2b9::3
 AAAA  mail.medium.isp
-      200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  cdnjs.ygg
       300:3e2c:4216:37c6::9
 AAAA  search.medium.isp
@@ -41,7 +41,7 @@ AAAA  irc.medium.isp
 AAAA  irc.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  mail.ygg
-      200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  i2pd.ygg
       304:4738:37c6:d295::1
 AAAA  mirror3.services.ygg
@@ -64,7 +64,5 @@ AAAA  dhtmap.ygg
       203:6e:8642:b41d:8a9:424e:97c8:eb46
 AAAA  telegram-proxy.ygg
       200:d672:ace1:3304:de22:1cef:c964:ef
-AAAA  cdn.ygg
-      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  humhub.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
