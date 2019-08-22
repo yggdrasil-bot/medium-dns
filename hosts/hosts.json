@@ -263,8 +263,8 @@
       "ipv6": "203:ae9c:8387:2c26:45d8:d230:e413:2838",
       "domain": "rootfs.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 0.91
+      "available": false,
+      "uptime": 0.90
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
