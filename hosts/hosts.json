@@ -4,8 +4,8 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.94
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
