@@ -4,7 +4,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.45
     },
     {
@@ -61,7 +61,7 @@
       "domain": "peertube.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.85
+      "uptime": 0.84
     },
     {
       "ipv6": "201:424a:3537:d340:6665:daaa:4918:2181",
