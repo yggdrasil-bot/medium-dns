@@ -45,7 +45,7 @@
 
 | URL                       	| IPv6 	        | Доступность 	| Uptime |
 |------------------------------ |---------------|:-------------:|:------:|
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-94.73%25-brightgreen.svg) |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-90.00%25-brightgreen.svg) |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [medium.isp](http://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
