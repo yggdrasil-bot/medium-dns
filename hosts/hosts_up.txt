@@ -62,6 +62,8 @@ AAAA  telegram-proxy.ygg
       200:d672:ace1:3304:de22:1cef:c964:ef
 AAAA  humhub.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  krd.ygg
+      200:9df4:48e7:ae15:db17:6294:c9af:fe86
 AAAA  korolr.ygg
       200:28bd:8fc:d885:b022:d7e5:a48d:95f6
 AAAA  forum-ru.ygg
