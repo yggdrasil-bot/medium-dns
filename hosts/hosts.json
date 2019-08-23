@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.85
+      "uptime": 0.84
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -276,6 +276,13 @@
     {
       "ipv6": "200:28bd:8fc:d885:b022:d7e5:a48d:95f6",
       "domain": "korolr.ygg",
+      "wildcard": true,
+      "available": true,
+      "uptime": 1.00
+    },
+    {
+      "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
+      "domain": "forum-ru.ygg",
       "wildcard": true,
       "available": true,
       "uptime": 1.00
