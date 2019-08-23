@@ -137,8 +137,8 @@
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
       "domain": "netwhood.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -214,8 +214,8 @@
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
       "domain": "git.netwhood.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.69
+      "uptime": 0.68
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
