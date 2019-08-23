@@ -46,7 +46,7 @@
 
 | URL                       	| IPv6 	        | Доступность 	| Uptime |
 |------------------------------ |---------------|:-------------:|:------:|
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-57.21%25-brightgreen.svg) |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-56.91%25-brightgreen.svg) |
 | [map.ygg](http://map.ygg/) | `21f:dd73:7cdb:773b:a924:7ec0:800b:221e` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [medium.isp](http://medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
@@ -56,18 +56,18 @@
 | [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [peertube.ygg](http://peertube.ygg/) | `301:fd1:86e3:521c::13` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-0.00%25-red.svg) |
 | [wekan.ygg](http://wekan.ygg/) | `201:424a:3537:d340:6665:daaa:4918:2181` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-97.29%25-brightgreen.svg) |
+| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-97.31%25-brightgreen.svg) |
 | [mail.medium.isp](http://mail.medium.isp/) | `200:3e2c:4216:37c6:aeb3:b54d:c483:90a3` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [cdnjs.ygg](http://cdnjs.ygg/) | `300:3e2c:4216:37c6::9` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-61.08%25-brightgreen.svg) |
+| [cdnjs.ygg](http://cdnjs.ygg/) | `300:3e2c:4216:37c6::9` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-60.75%25-brightgreen.svg) |
 | [search.medium.isp](http://search.medium.isp/) | `201:86d0:415c:e865:ce43:c235:d324:2e74` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-96.75%25-brightgreen.svg) |
+| [speedtest.ygg](http://speedtest.ygg/) | `201:424c:a9d8:5d69:f3b0:61ef:f201:d37` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-96.77%25-brightgreen.svg) |
 | [to.ygg](http://to.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [services.ygg](http://services.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mirror1.services.ygg](http://mirror1.services.ygg/) | `301:fd1:86e3:521c::10` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-0.00%25-red.svg) |
 | [mirror2.services.ygg](http://mirror2.services.ygg/) | `301:fd1:86e3:521c::22` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-0.00%25-red.svg) |
-| [netwhood.ygg](http://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.45%25-brightgreen.svg) |
+| [netwhood.ygg](http://netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-98.91%25-brightgreen.svg) |
 | [matrix.ygg](http://matrix.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [irc.medium.isp](http://irc.medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.45%25-brightgreen.svg) |
+| [irc.medium.isp](http://irc.medium.isp/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.46%25-brightgreen.svg) |
 | [irc.ygg](http://irc.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [mail.ygg](http://mail.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [i2pd.ygg](http://i2pd.ygg/) | `304:4738:37c6:d295::1` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
@@ -76,13 +76,13 @@
 | [privatebin.ygg](http://privatebin.ygg/) | `304:4738:37c6:d295::3` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [nextcloud.ygg](http://nextcloud.ygg/) | `304:4738:37c6:d295::2` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [office.nextcloud.ygg](http://office.nextcloud.ygg/) | `304:4738:37c6:d295::6` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [git.netwhood.ygg](http://git.netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.45%25-brightgreen.svg) |
+| [git.netwhood.ygg](http://git.netwhood.ygg/) | `202:12a9:e5:4474:d473:82be:16ac:9381` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-98.91%25-brightgreen.svg) |
 | [provodach.ygg](http://provodach.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [yggservers.ygg](http://yggservers.ygg/) | `200:3e2c:4216:37c6:aeb3:b54d:c483:90a3` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [dhtmap.ygg](http://dhtmap.ygg/) | `203:6e:8642:b41d:8a9:424e:97c8:eb46` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.45%25-brightgreen.svg) |
 | [telegram-proxy.ygg](http://telegram-proxy.ygg/) | `200:d672:ace1:3304:de22:1cef:c964:ef` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [humhub.ygg](http://humhub.ygg/) | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
-| [rootfs.ygg](http://rootfs.ygg/) | `203:ae9c:8387:2c26:45d8:d230:e413:2838` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-68.85%25-brightgreen.svg) |
+| [rootfs.ygg](http://rootfs.ygg/) | `203:ae9c:8387:2c26:45d8:d230:e413:2838` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-68.47%25-brightgreen.svg) |
 | [krd.ygg](http://krd.ygg/) | `200:9df4:48e7:ae15:db17:6294:c9af:fe86` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.45%25-brightgreen.svg) |
 | [korolr.ygg](http://korolr.ygg/) | `200:28bd:8fc:d885:b022:d7e5:a48d:95f6` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |
 | [forum-ru.ygg](http://forum-ru.ygg/) | `200:529f:150c:eafe:4405:93fe:8d76:39cb` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-brightgreen.svg) |

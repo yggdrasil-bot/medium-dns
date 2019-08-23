@@ -5,7 +5,7 @@
       "domain": "podivilov.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.57
+      "uptime": 0.56
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.61
+      "uptime": 0.60
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -138,7 +138,7 @@
       "domain": "netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.99
+      "uptime": 0.98
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -215,7 +215,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.99
+      "uptime": 0.98
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
