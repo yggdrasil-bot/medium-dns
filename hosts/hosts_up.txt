@@ -22,6 +22,8 @@ AAAA  mail.medium.isp
       200:3e2c:4216:37c6:aeb3:b54d:c483:90a3
 AAAA  search.medium.isp
       201:86d0:415c:e865:ce43:c235:d324:2e74
+AAAA  speedtest.ygg
+      201:424c:a9d8:5d69:f3b0:61ef:f201:d37
 AAAA  to.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  services.ygg
