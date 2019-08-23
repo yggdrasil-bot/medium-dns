@@ -88,8 +88,8 @@
       "ipv6": "300:3e2c:4216:37c6::9",
       "domain": "cdnjs.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
