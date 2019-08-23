@@ -74,7 +74,7 @@
       "ipv6": "303:60d4:3d32:a2b9::3",
       "domain": "irc.mesh.ygg",
       "wildcard": true,
-      "available": true,
+      "available": false,
       "uptime": 0.97
     },
     {
@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.79
+      "uptime": 0.78
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.89
+      "uptime": 0.88
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
