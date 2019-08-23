@@ -103,7 +103,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.97
+      "uptime": 0.96
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.75
+      "uptime": 0.74
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
