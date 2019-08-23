@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.83
+      "uptime": 0.82
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -264,7 +264,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.94
+      "uptime": 0.93
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
