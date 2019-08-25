@@ -54,7 +54,7 @@
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.90
+      "uptime": 0.91
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.41
+      "uptime": 0.42
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
