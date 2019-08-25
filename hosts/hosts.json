@@ -54,7 +54,7 @@
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.96
+      "uptime": 0.95
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -95,8 +95,8 @@
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
       "domain": "search.medium.isp",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
