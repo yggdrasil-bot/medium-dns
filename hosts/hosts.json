@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.36
+      "uptime": 0.37
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
