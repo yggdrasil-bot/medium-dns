@@ -54,7 +54,7 @@
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.92
+      "uptime": 0.91
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.32
+      "uptime": 0.31
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
