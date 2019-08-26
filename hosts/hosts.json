@@ -89,7 +89,7 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.24
+      "uptime": 0.23
     },
     {
       "ipv6": "201:86d0:415c:e865:ce43:c235:d324:2e74",
@@ -138,7 +138,7 @@
       "domain": "netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.39
+      "uptime": 0.38
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.75
+      "uptime": 0.74
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
