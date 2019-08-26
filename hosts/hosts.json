@@ -215,7 +215,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.40
+      "uptime": 0.39
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -257,7 +257,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.47
+      "uptime": 0.48
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.78
+      "uptime": 0.77
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
