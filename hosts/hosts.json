@@ -54,7 +54,7 @@
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.91
+      "uptime": 0.92
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.77
+      "uptime": 0.76
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
