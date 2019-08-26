@@ -5,7 +5,7 @@
       "domain": "podivilov.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.30
+      "uptime": 0.31
     },
     {
       "ipv6": "21f:dd73:7cdb:773b:a924:7ec0:800b:221e",
@@ -82,7 +82,7 @@
       "domain": "mail.medium.isp",
       "wildcard": true,
       "available": false,
-      "uptime": 0.95
+      "uptime": 0.94
     },
     {
       "ipv6": "300:3e2c:4216:37c6::9",
@@ -229,7 +229,7 @@
       "domain": "yggservers.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.95
+      "uptime": 0.94
     },
     {
       "ipv6": "203:6e:8642:b41d:8a9:424e:97c8:eb46",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.67
+      "uptime": 0.66
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
