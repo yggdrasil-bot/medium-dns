@@ -18,8 +18,8 @@
       "ipv6": "303:60d4:3d32:a2b9::4",
       "domain": "mesh.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -215,7 +215,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.39
+      "uptime": 0.38
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
