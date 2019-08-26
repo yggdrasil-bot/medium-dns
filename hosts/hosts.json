@@ -82,7 +82,7 @@
       "domain": "mail.medium.isp",
       "wildcard": true,
       "available": false,
-      "uptime": 0.94
+      "uptime": 0.93
     },
     {
       "ipv6": "300:3e2c:4216:37c6::9",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.66
+      "uptime": 0.65
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
