@@ -78,11 +78,11 @@
       "uptime": 0.98
     },
     {
-      "ipv6": "200:3e2c:4216:37c6:aeb3:b54d:c483:90a3",
+      "ipv6": "300:5bf2:a7a5:27c7::1",
       "domain": "mail.medium.isp",
       "wildcard": true,
-      "available": false,
-      "uptime": 0.92
+      "available": true,
+      "uptime": 0.91
     },
     {
       "ipv6": "300:3e2c:4216:37c6::9",
@@ -229,7 +229,7 @@
       "domain": "yggservers.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.92
+      "uptime": 0.91
     },
     {
       "ipv6": "203:6e:8642:b41d:8a9:424e:97c8:eb46",
@@ -271,7 +271,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.64
+      "uptime": 0.63
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
