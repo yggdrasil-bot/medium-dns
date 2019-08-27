@@ -222,7 +222,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.31
+      "uptime": 0.30
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -278,7 +278,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.56
+      "uptime": 0.55
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
