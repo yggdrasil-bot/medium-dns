@@ -80,3 +80,5 @@ AAAA  korolr.ygg
       200:28bd:8fc:d885:b022:d7e5:a48d:95f6
 AAAA  forum-ru.ygg
       200:529f:150c:eafe:4405:93fe:8d76:39cb
+AAAA  f14a2cd.ygg
+      300:5bf2:a7a5:27c7::460
