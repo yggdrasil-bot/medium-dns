@@ -89,10 +89,10 @@
       "domain": "cdnjs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.22
+      "uptime": 0.23
     },
     {
-      "ipv6": "300:5bf2:a7a5:27c7::2",
+      "ipv6": "300:5bf2:a7a5:27c7::4",
       "domain": "lg.ygg",
       "wildcard": true,
       "available": true,
@@ -278,7 +278,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.54
+      "uptime": 0.53
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
