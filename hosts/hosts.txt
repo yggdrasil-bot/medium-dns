@@ -23,7 +23,7 @@ AAAA  irc.mesh.ygg
 AAAA  mail.medium.isp
       300:5bf2:a7a5:27c7::1
 AAAA  cdnjs.ygg
-      300:5bf2:a7a5:27c7::3
+      300:5bf2:a7a5:27c7::77
 AAAA  lg.ygg
       300:5bf2:a7a5:27c7::4
 AAAA  search.medium.isp
