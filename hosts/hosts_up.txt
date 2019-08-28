@@ -20,8 +20,6 @@ AAAA  mail.medium.isp
       300:5bf2:a7a5:27c7::1
 AAAA  lg.ygg
       300:5bf2:a7a5:27c7::4
-AAAA  search.medium.isp
-      201:86d0:415c:e865:ce43:c235:d324:2e74
 AAAA  speedtest.ygg
       201:424c:a9d8:5d69:f3b0:61ef:f201:d37
 AAAA  to.ygg
