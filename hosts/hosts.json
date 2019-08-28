@@ -264,7 +264,7 @@
       "domain": "rootfs.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.64
+      "uptime": 0.65
     },
     {
       "ipv6": "200:9df4:48e7:ae15:db17:6294:c9af:fe86",
@@ -278,7 +278,7 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.47
+      "uptime": 0.46
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
