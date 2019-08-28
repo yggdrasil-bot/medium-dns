@@ -53,7 +53,7 @@
       "ipv6": "203:e0b0:ec08:4e1f:f004:19a9:577a:90ba",
       "domain": "wiki.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.94
     },
     {
