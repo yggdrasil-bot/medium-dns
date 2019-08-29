@@ -75,7 +75,7 @@
       "domain": "irc.mesh.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.98
+      "uptime": 0.99
     },
     {
       "ipv6": "300:5bf2:a7a5:27c7::1",
@@ -110,7 +110,7 @@
       "domain": "speedtest.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.98
+      "uptime": 0.99
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
