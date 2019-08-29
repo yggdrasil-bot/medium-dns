@@ -74,7 +74,7 @@
       "ipv6": "303:60d4:3d32:a2b9::3",
       "domain": "irc.mesh.ygg",
       "wildcard": true,
-      "available": true,
+      "available": false,
       "uptime": 0.98
     },
     {
@@ -236,7 +236,7 @@
       "domain": "yggservers.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.60
+      "uptime": 0.59
     },
     {
       "ipv6": "203:6e:8642:b41d:8a9:424e:97c8:eb46",
