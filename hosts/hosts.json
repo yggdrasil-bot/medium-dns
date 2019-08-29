@@ -4,7 +4,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.35
     },
     {
@@ -54,7 +54,7 @@
       "domain": "wiki.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.94
+      "uptime": 0.93
     },
     {
       "ipv6": "301:fd1:86e3:521c::13",
@@ -236,7 +236,7 @@
       "domain": "yggservers.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.61
+      "uptime": 0.60
     },
     {
       "ipv6": "203:6e:8642:b41d:8a9:424e:97c8:eb46",
