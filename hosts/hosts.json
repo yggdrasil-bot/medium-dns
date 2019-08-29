@@ -391,6 +391,13 @@
       "wildcard": true,
       "available": true,
       "uptime": 1.00
+    },
+    {
+      "ipv6": "200:362b:d038:d21e:4b2e:2f86:1936:e9e2",
+      "domain": "minetest.ygg",
+      "wildcard": true,
+      "available": true,
+      "uptime": 1.00
     }
   ]
 }
