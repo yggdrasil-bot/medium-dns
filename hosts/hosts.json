@@ -278,14 +278,14 @@
       "domain": "korolr.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.37
+      "uptime": 0.36
     },
     {
       "ipv6": "200:529f:150c:eafe:4405:93fe:8d76:39cb",
       "domain": "forum-ru.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.99
     },
     {
       "ipv6": "300:5bf2:a7a5:27c7::459",

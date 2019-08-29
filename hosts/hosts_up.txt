@@ -62,8 +62,6 @@ AAAA  rootfs.ygg
       203:ae9c:8387:2c26:45d8:d230:e413:2838
 AAAA  krd.ygg
       200:9df4:48e7:ae15:db17:6294:c9af:fe86
-AAAA  forum-ru.ygg
-      200:529f:150c:eafe:4405:93fe:8d76:39cb
 AAAA  minecraft.ygg
       202:baed:9808:83c8:738:4041:bd8b:8c1d
 AAAA  lxc-hosting.ygg
