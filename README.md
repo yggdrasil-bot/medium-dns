@@ -21,6 +21,7 @@
 | Название     	| Описание                    	| URL                         	| IPv6  	| Доступность 	| Uptime |
 |-------------- |------------------------------ |------------------------------ |:-------------:|:-------------:|:-------:
 | «Medium» 	| Заглавная страница            | [medium.isp](http://medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-success.svg) |
+| Wiki 	        | Вики                          | [wiki.medium.isp](http://wiki.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-success.svg) |
 | Старт 	| Стартовая страница            | [start.medium.isp](http://start.medium.isp/)                   	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-success.svg) |
 | Чат   		| Чат             	| [web.medium.isp](http://web.medium.isp/)              	| -              	| ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-success.svg) |
 | Почта   	| Почтовый сервис             	| [mail.medium.isp](http://mail.medium.isp/) | - | ![](https://img.shields.io/badge/доступен-success.svg)            	| ![](https://img.shields.io/badge/%F0%9F%95%92-100%25-success.svg) |
@@ -54,10 +55,10 @@
 | [static-map.ygg](http://static-map.ygg/) | `301:4541:2f84:1188:216:3eff:feb6:65a3` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.75%25-brightgreen.svg) |
 | [mesh.ygg](http://mesh.ygg/) | `303:60d4:3d32:a2b9::4` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.75%25-brightgreen.svg) |
 | [ipinfo.ygg](http://ipinfo.ygg/) | `300:aa35:f9c1:dcce::2` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.87%25-brightgreen.svg) |
-| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-36.40%25-yellow.svg) |
-| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-98.88%25-brightgreen.svg) |
-| [lg.ygg](http://lg.ygg/) | `300:5bf2:a7a5:27c7::4` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-99.11%25-brightgreen.svg) |
-| [mail.medium.isp](http://mail.medium.isp/) | `300:5bf2:a7a5:27c7::1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-94.44%25-brightgreen.svg) |
-| [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-92.84%25-brightgreen.svg) |
-| [cdnjs.ygg](http://cdnjs.ygg/) | `300:5bf2:a7a5:27c7::77` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-17.40%25-red.svg) |
+| [podivilov.ygg](http://podivilov.ygg/) | `200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1` | ![](https://img.shields.io/badge/доступен-brightgreen.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-36.48%25-yellow.svg) |
+| [irc.mesh.ygg](http://irc.mesh.ygg/) | `303:60d4:3d32:a2b9::3` | ![](https://img.shields.io/badge/частично-yellow.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-98.89%25-brightgreen.svg) |
+| [lg.ygg](http://lg.ygg/) | `300:5bf2:a7a5:27c7::4` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-98.68%25-brightgreen.svg) |
+| [mail.medium.isp](http://mail.medium.isp/) | `300:5bf2:a7a5:27c7::1` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-94.32%25-brightgreen.svg) |
+| [wiki.ygg](http://wiki.ygg/) | `203:e0b0:ec08:4e1f:f004:19a9:577a:90ba` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-92.73%25-brightgreen.svg) |
+| [cdnjs.ygg](http://cdnjs.ygg/) | `300:5bf2:a7a5:27c7::77` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-17.38%25-red.svg) |
 | [peertube.ygg](http://peertube.ygg/) | `301:fd1:86e3:521c::13` | ![](https://img.shields.io/badge/недоступен-red.svg) | ![](https://img.shields.io/badge/%F0%9F%95%92-0.00%25-red.svg) |
