@@ -39,7 +39,7 @@
       "ipv6": "300:aa35:f9c1:dcce::2",
       "domain": "ipinfo.ygg",
       "wildcard": true,
-      "available": true,
+      "available": false,
       "uptime": 0.99
     },
     {
