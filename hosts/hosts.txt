@@ -106,3 +106,5 @@ AAAA  opennic.ygg
       200:c493:950a:d576:a413:faef:990b:fb76
 AAAA  minetest.ygg
       200:362b:d038:d21e:4b2e:2f86:1936:e9e2
+AAAA  roskomsvoboda.ygg
+      300:5bf2:a7a5:27c7::100
