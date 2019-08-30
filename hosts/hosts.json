@@ -81,14 +81,14 @@
       "ipv6": "300:5bf2:a7a5:27c7::77",
       "domain": "cdnjs.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.15
     },
     {
       "ipv6": "300:5bf2:a7a5:27c7::4",
       "domain": "lg.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.86
     },
     {
@@ -131,7 +131,7 @@
       "domain": "netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.39
+      "uptime": 0.40
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -201,7 +201,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.39
+      "uptime": 0.40
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -270,7 +270,7 @@
       "ipv6": "300:5bf2:a7a5:27c7::459",
       "domain": "f14a2cd.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.00
     },
     {
@@ -355,7 +355,7 @@
       "domain": "umbrellix.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.41
+      "uptime": 0.40
     },
     {
       "ipv6": "201:870:9573:4095:f4e6:dfde:cc68:c783",
@@ -376,7 +376,7 @@
       "domain": "minetest.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.39
+      "uptime": 0.38
     },
     {
       "ipv6": "300:5bf2:a7a5:27c7::100",
