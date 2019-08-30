@@ -89,7 +89,7 @@
       "domain": "lg.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.95
+      "uptime": 0.94
     },
     {
       "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
@@ -355,7 +355,7 @@
       "domain": "umbrellix.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.67
+      "uptime": 0.65
     },
     {
       "ipv6": "201:870:9573:4095:f4e6:dfde:cc68:c783",
@@ -376,7 +376,7 @@
       "domain": "minetest.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.67
+      "uptime": 0.65
     }
   ]
 }
