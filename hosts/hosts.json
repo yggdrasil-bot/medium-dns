@@ -4,7 +4,7 @@
       "ipv6": "200:34f8:3a1b:5a5f:c188:f950:bf97:d1a1",
       "domain": "podivilov.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.41
     },
     {
@@ -89,7 +89,7 @@
       "domain": "lg.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.89
+      "uptime": 0.88
     },
     {
       "ipv6": "201:424c:a9d8:5d69:f3b0:61ef:f201:d37",
@@ -117,21 +117,21 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.01
+      "uptime": 0.02
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.01
+      "uptime": 0.02
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
       "domain": "netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.30
+      "uptime": 0.31
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -201,7 +201,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.30
+      "uptime": 0.31
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -376,7 +376,7 @@
       "domain": "minetest.ygg",
       "wildcard": true,
       "available": false,
-      "uptime": 0.45
+      "uptime": 0.44
     },
     {
       "ipv6": "300:5bf2:a7a5:27c7::100",
