@@ -16,6 +16,8 @@ AAAA  wiki.ygg
       203:e0b0:ec08:4e1f:f004:19a9:577a:90ba
 AAAA  wekan.ygg
       201:424a:3537:d340:6665:daaa:4918:2181
+AAAA  irc.mesh.ygg
+      303:60d4:3d32:a2b9::3
 AAAA  mail.medium.isp
       300:5bf2:a7a5:27c7::1
 AAAA  lg.ygg
@@ -84,11 +86,7 @@ AAAA  fz.ygg
       201:918e:f16:bd05:e1f4:7435:7182:42d5
 AAAA  irc.fz.ygg
       201:918e:f16:bd05:e1f4:7435:7182:42d5
-AAAA  umbrellix.ygg
-      202:8fb5:1490:594d:7e29:98fd:8d79:953f
 AAAA  meshirc.ygg
       201:870:9573:4095:f4e6:dfde:cc68:c783
 AAAA  opennic.ygg
       200:c493:950a:d576:a413:faef:990b:fb76
-AAAA  minetest.ygg
-      200:362b:d038:d21e:4b2e:2f86:1936:e9e2

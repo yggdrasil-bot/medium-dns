@@ -74,7 +74,7 @@
       "ipv6": "303:60d4:3d32:a2b9::3",
       "domain": "irc.mesh.ygg",
       "wildcard": true,
-      "available": false,
+      "available": true,
       "uptime": 0.98
     },
     {
@@ -375,8 +375,8 @@
       "ipv6": "202:8fb5:1490:594d:7e29:98fd:8d79:953f",
       "domain": "umbrellix.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.96
     },
     {
       "ipv6": "201:870:9573:4095:f4e6:dfde:cc68:c783",
@@ -396,8 +396,8 @@
       "ipv6": "200:362b:d038:d21e:4b2e:2f86:1936:e9e2",
       "domain": "minetest.ygg",
       "wildcard": true,
-      "available": true,
-      "uptime": 1.00
+      "available": false,
+      "uptime": 0.96
     }
   ]
 }
