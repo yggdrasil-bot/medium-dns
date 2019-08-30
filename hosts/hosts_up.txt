@@ -26,6 +26,10 @@ AAAA  to.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  services.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  mirror1.services.ygg
+      301:fd1:86e3:521c::10
+AAAA  mirror2.services.ygg
+      301:fd1:86e3:521c::22
 AAAA  netwhood.ygg
       202:12a9:e5:4474:d473:82be:16ac:9381
 AAAA  matrix.ygg
