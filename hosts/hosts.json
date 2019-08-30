@@ -117,21 +117,21 @@
       "domain": "mirror1.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.02
+      "uptime": 0.03
     },
     {
       "ipv6": "301:fd1:86e3:521c::22",
       "domain": "mirror2.services.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.02
+      "uptime": 0.03
     },
     {
       "ipv6": "202:12a9:e5:4474:d473:82be:16ac:9381",
       "domain": "netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.40
+      "uptime": 0.41
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
@@ -201,7 +201,7 @@
       "domain": "git.netwhood.ygg",
       "wildcard": true,
       "available": true,
-      "uptime": 0.40
+      "uptime": 0.41
     },
     {
       "ipv6": "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712",
