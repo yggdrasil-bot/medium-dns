@@ -86,5 +86,3 @@ AAAA  meshirc.ygg
       201:870:9573:4095:f4e6:dfde:cc68:c783
 AAAA  opennic.ygg
       200:c493:950a:d576:a413:faef:990b:fb76
-AAAA  minetest.ygg
-      200:362b:d038:d21e:4b2e:2f86:1936:e9e2
