@@ -18,8 +18,6 @@ AAAA  wekan.ygg
       201:424a:3537:d340:6665:daaa:4918:2181
 AAAA  irc.mesh.ygg
       303:60d4:3d32:a2b9::3
-AAAA  search.medium.isp
-      201:86d0:415c:e865:ce43:c235:d324:2e74
 AAAA  speedtest.ygg
       201:424c:a9d8:5d69:f3b0:61ef:f201:d37
 AAAA  to.ygg
@@ -27,8 +25,6 @@ AAAA  to.ygg
 AAAA  services.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  matrix.ygg
-      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
-AAAA  irc.medium.isp
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
 AAAA  irc.ygg
       200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
