@@ -118,3 +118,6 @@ AAAA  mail.medium.isp
       300:5bf2:a7a5:27c7::1
 AAAA  localhost123test.ygg
       200:5bf2:a7a5:27c7:54b8:6669:eb74:1813
+AAAA  search.medium.isp
+      201:86d0:415c:e865:ce43:c235:d324:2e74
+
