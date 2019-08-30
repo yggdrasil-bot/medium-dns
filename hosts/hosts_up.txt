@@ -94,3 +94,11 @@ AAAA  opennic.ygg
       200:c493:950a:d576:a413:faef:990b:fb76
 AAAA  roskomsvoboda.ygg
       300:5bf2:a7a5:27c7::100
+AAAA  nic.medium
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  wiki.medium
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  mail.medium
+      200:1e4b:b2df:69ba:1eba:fdf9:edde:3712
+AAAA  mail.medium.isp
+      200:5bf2:a7a5:27c7:54b8:6669:eb74:1813
